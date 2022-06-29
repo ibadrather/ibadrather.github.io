@@ -1,6 +1,6 @@
 # Ibad Rather
 
-![1520052495799 (3)](https://user-images.githubusercontent.com/35704690/176501994-9f4cdfba-7904-4a9d-95d9-651edac1c831.png)
+![IMG_20220625_170230](https://user-images.githubusercontent.com/35704690/176511468-71f817f5-d1ce-4a54-b313-65ef54c55011.png)
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
