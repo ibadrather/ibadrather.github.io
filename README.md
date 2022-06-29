@@ -2,6 +2,15 @@
 
 ![1520052495799 (3)](https://user-images.githubusercontent.com/35704690/176501994-9f4cdfba-7904-4a9d-95d9-651edac1c831.png)
 
+<p>
+  <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/ibadrather" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 ## **Skills**
 - Python, MATLAB, C++, GIT, Linux
 - Data Engineering, Data Science, Simulations, Machine Learning, Deep-Learning, Robotics, Sensorics
