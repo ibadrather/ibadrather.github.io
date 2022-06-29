@@ -1,6 +1,6 @@
 # Ibad Rather
 
-![1520052495799 (2)](https://user-images.githubusercontent.com/35704690/176501031-d6224d2a-1411-4e2b-8a71-71ad86037b5c.png)
+![1520052495799 (3)](https://user-images.githubusercontent.com/35704690/176501994-9f4cdfba-7904-4a9d-95d9-651edac1c831.png)
 
 ## **Skills**
 - Python, MATLAB, C++, GIT, Linux
