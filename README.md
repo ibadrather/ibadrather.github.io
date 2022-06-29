@@ -102,13 +102,13 @@ Gazebo simulation environments.
 
 - **Vice-President Enactus JMI, 2017-2018**: 
   - Lead a team of more than 100 people working on various social projects projects.
-  - Developed a good name and positive impression of the organisation, which helped in motivating people to join and work with us. The organisation is going strong and has qualified for international level competitions.
+  - Developed a good name and positive impression of the organisation, which helped in motivating people to join and work with us.
   - Organised numerous events around Delhi showcasing and marketing our projects.
   - Raised the most funds the organisation ever did at that time (was also working as sponsorship head).
 
 - **National Go-Kart Racing Championship by LPU-SAE**:
   - Lead Design and Development for a Go-Kart Racing Championship at National level for 2 years.
   - Sucesfully designed and fabricated various components like shafts, hubs, front axle and chassis.
-  - Developed a culture of competetive racing vehicle designing at the University which is being continued till this date. And the university teams are making good progress.
+  - Developed a culture of competetive racing vehicle designing at the University.
   - Conducted design classes during this period to teach the Junior students basics of CAD-Design on Fusion 360 and Solid Works.
  
