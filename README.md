@@ -67,6 +67,7 @@ Gazebo simulation environments.
 - [Udacity: Robotics Software Engineer](https://graduation.udacity.com/confirm/PPG5APCA "Certificate Link")
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/8TSW2YPUQV8X "Certificate Link")
 - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/PLY2B58BS8YU "Certificate Link")
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/XG2GC3XVKFJX "Certificate Link")
 - [Google's Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/6YV5W6LBPULU "Certificate Link")
 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/JDRHSR3TZCSJ "Certificate Link")
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a0f54e60-3985-467b-ab87-f57e994b350f "Certificate Link")
@@ -77,4 +78,3 @@ Gazebo simulation environments.
 - [Interfacing with the Arduino](https://www.coursera.org/account/accomplishments/certificate/DWXNDWY24AL5 "Certificate Link")
 - [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/KLZRW2N6K9BE "Certificate Link")
 - [Machine Design Part I](https://www.coursera.org/account/accomplishments/verify/7F5EDRXWXN2N "Certificate Link")
-
