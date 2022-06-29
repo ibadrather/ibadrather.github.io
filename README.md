@@ -1,5 +1,7 @@
 # Ibad Rather
 
+![1520052495799](https://user-images.githubusercontent.com/35704690/176498577-8fc79cd1-dc93-4c3f-a80e-603b1dd80667.jpg)
+
 ## **Skills**
 - Python, MATLAB, C++, GIT, Linux
 - Data Engineering, Data Science, Simulations, Machine Learning, Deep-Learning, Robotics, Sensorics
