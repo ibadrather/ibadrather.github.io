@@ -63,7 +63,22 @@ Gazebo simulation environments.
   - Camera Calibration
   - Gradients and Colour Spaces
 
-## Certifications
+## **Certifications**
 - [Udacity: Robotics Software Engineer](https://graduation.udacity.com/confirm/PPG5APCA "Certificate Link")
-[](A "Certificate Link")
+- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/8TSW2YPUQV8X "Certificate Link")
+- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/PLY2B58BS8YU "Certificate Link")
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a0f54e60-3985-467b-ab87-f57e994b350f "Certificate Link")
+- [SIMULINK Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c691ec1a-bc8b-4fc6-932e-3f4440b220b5 "Certificate Link")
+- [IBM Applied AI](https://www.coursera.org/account/accomplishments/professional-cert/58JFH8ZPV38M "Certificate Link")
+- [The Arduino Platform and C Programming](https://www.coursera.org/account/accomplishments/certificate/8ZX943MAX4MT "Certificate Link")
+- [Interfacing with the Raspberry Pi](https://www.coursera.org/account/accomplishments/certificate/MFU9PEP3NZ8B "Certificate Link")
+- [Interfacing with the Arduino](https://www.coursera.org/account/accomplishments/certificate/DWXNDWY24AL5 "Certificate Link")
+- [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/KLZRW2N6K9BE "Certificate Link")
+- [Machine Design Part I](https://www.coursera.org/account/accomplishments/verify/7F5EDRXWXN2N "Certificate Link")
+- []( "Certificate Link")
+- []( "Certificate Link")
+- []( "Certificate Link")
+- []( "Certificate Link")
+- []( "Certificate Link")
+- []( "Certificate Link")
 
