@@ -21,3 +21,20 @@
 - Creation of simulation environments with a Camera and an Inertial Measurement Unit (IMU) that reflect real-world conditions.
 - Implementation of Camera Motions like damped vibrations.
 - Training and Evaluation of various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
+
+### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot: May 2021 - January 2022
+
+- Simulated a world in Gazebo which depicted a real-world like residential neighbourhood.
+- Built a Map (2D Occupancy Grid Map and 3D-Octomap) of the Environment using various SLAM Algorithms (gmapping, Hector SLAM and RTAB-Mapping) for comparison and use.
+- Implemented a path planning package which helps the Mobile Robot to reach its goals safely and correctly.
+
+
+## Education	
+### MS Mechatronics, Universität Siegen: October 2019 – November 2022
+Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit
+## B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi: July 2014 – June 2018	
+- Grade	8.74 – First Division with Honours
+- Thesis:	Friction Stir Welding
+
+
+
