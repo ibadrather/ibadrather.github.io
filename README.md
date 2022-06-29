@@ -56,12 +56,12 @@ Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Me
   - Object Recognition on Raspberry Pi
 
 #### Computer Vision Related Projects
-  Worked on various small and relatively big projects like:
-  - Advanced Lane Line Detection
-  - European Bank Notes Classification
-  - Video Editing Pipeline
-  - Camera Calibration
-  - Gradients and Colour Spaces
+    Worked on various small and relatively big projects like:
+    - Advanced Lane Line Detection
+    - European Bank Notes Classification
+    - Video Editing Pipeline
+    - Camera Calibration
+    - Gradients and Colour Spaces
 
 
 
