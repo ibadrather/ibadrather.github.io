@@ -1,6 +1,6 @@
 # Ibad Rather
 
-## Skills
+## **Skills**
 - Python, MATLAB, C++, GIT, Linux
 - Data Engineering, Data Science, Simulations, Machine Learning, Deep-Learning, Robotics, Sensorics
 - Pytorch, Pytorch-Lightning, DARTS, Pandas, NumPy, OpenCV, Scikit-Learn, Matplotlib
@@ -9,7 +9,7 @@
 - Arduino/ Raspberry Pi, IOT Development
 - Independent, Leadership, Problem Solving, Teaching
 
-## Experience
+## **Experience**
 ### Carl Zeiss AG, Master Thesis Student: June 2022 – November 2022
 - Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit
 - Evaluation of various deep learning architectures and classical algorithms for pose-estimation using an IMU Sensor data.
@@ -29,10 +29,10 @@
 - Implemented a path planning package which helps the Mobile Robot to reach its goals safely and correctly.
 
 
-## Education	
+## **Education**
 ### MS Mechatronics, Universität Siegen: October 2019 – November 2022
 Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit
-## B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi: July 2014 – June 2018	
+### B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi: July 2014 – June 2018	
 - Grade	8.74 – First Division with Honours
 - Thesis:	Friction Stir Welding
 
