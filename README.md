@@ -48,8 +48,7 @@ Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Me
   - Localisation: In this project, I learnt to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the 
 Gazebo simulation environments. 
 
-- **Deep Learning Related Projects**
-Worked on various Deep Learning Related Projects from time to time:
+- **Deep Learning Related Projects**: Worked on various Deep Learning Related Projects from time to time:
   - Multi-variate Time Series analysis for forecasting.
   - Multi-variate Time Series analysis for classification
   - CNNs for classification
@@ -57,8 +56,7 @@ Worked on various Deep Learning Related Projects from time to time:
   - Multi – Timeseries Forecasting
   - Object Recognition on Raspberry Pi
 
-- **Computer Vision Related Projects**
-Worked on various small and relatively big projects like:
+- **Computer Vision Related Projects**: Worked on various small and relatively big projects like:
   - Advanced Lane Line Detection
   - European Bank Notes Classification
   - Video Editing Pipeline
