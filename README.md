@@ -59,11 +59,11 @@ Worked on various Deep Learning Related Projects from time to time:
 
 -  **Computer Vision Related Projects**
 Worked on various small and relatively big projects like:
- - Advanced Lane Line Detection
- - European Bank Notes Classification
- - Video Editing Pipeline
- - Camera Calibration
- - Gradients and Colour Spaces
+  - Advanced Lane Line Detection
+  - European Bank Notes Classification
+  - Video Editing Pipeline
+  - Camera Calibration
+  - Gradients and Colour Spaces
 
 
 
