@@ -1,6 +1,6 @@
 # Ibad Rather
 
-![IMG_20220625_170230 (1)](https://user-images.githubusercontent.com/35704690/176511773-61b271b3-3993-4d38-8460-0539174d9411.png)
+![WhatsApp Image 2022-06-29 at 7 47 06 PM](https://user-images.githubusercontent.com/35704690/176515442-9d858575-2894-491f-8c3b-63e6f851bf07.jpeg)
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
@@ -94,5 +94,17 @@ Gazebo simulation environments.
 - Urdu: Native
 - Kashmiri: Mother Tongue
 
-## Extra-Curricular Activities and Leadership Experience
+## Leadership Experience
+- **Vice-President Enactus JMI, 2017-2018**: 
+  - Lead a team of more than 100 people working on various social projects projects.
+  - Developed a good name and positive impression of the organisation, which helped in motivating people to join and work with us. The organisation is going strong and has qualified for international level competitions.
+  - Organised numerous events around Delhi showcasing and marketing our projects.
+  - Raised the most funds the organisation ever did at that time (was also working as sponsorship head).
 
+- **National Go-Kart Racing Championship by LPU-SAE**:
+  - Lead Design and Development for a Go-Kart Racing Championship at National level for 2 years.
+  - Sucesfully designed and fabricated various components like shafts, hubs, front axle and chassis.
+  - Developed a culture of competetive racing vehicle designing at the University which is being continued till this date. And the university teams are making good progress.
+  - Conducted design classes during this period to teach the Junior students basics of CAD-Design on Fusion 360 and Solid Works.
+ 
+- **Python and Computer Vision Workshops**:
