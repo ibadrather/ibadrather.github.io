@@ -64,6 +64,6 @@ Gazebo simulation environments.
   - Gradients and Colour Spaces
 
 ## Certifications
-[Udacity: Robotics Software Engineer](https://graduation.udacity.com/confirm/PPG5APCA "Certificate Link")
+- [Udacity: Robotics Software Engineer](https://graduation.udacity.com/confirm/PPG5APCA "Certificate Link")
 [](A "Certificate Link")
 
