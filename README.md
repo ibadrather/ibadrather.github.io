@@ -87,3 +87,12 @@ Gazebo simulation environments.
 - [Interfacing with the Arduino](https://www.coursera.org/account/accomplishments/certificate/DWXNDWY24AL5 "Certificate Link")
 - [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/KLZRW2N6K9BE "Certificate Link")
 - [Machine Design Part I](https://www.coursera.org/account/accomplishments/verify/7F5EDRXWXN2N "Certificate Link")
+
+## Languages
+- English - C1
+- German - A1
+- Urdu: Native
+- Kashmiri: Mother Tongue
+
+## Extra-Curricular Activities and Leadership Experience
+
