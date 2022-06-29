@@ -57,7 +57,7 @@ Worked on various Deep Learning Related Projects from time to time:
   - Multi – Timeseries Forecasting
   - Object Recognition on Raspberry Pi
 
--  **Computer Vision Related Projects**
+- **Computer Vision Related Projects**
 Worked on various small and relatively big projects like:
   - Advanced Lane Line Detection
   - European Bank Notes Classification
