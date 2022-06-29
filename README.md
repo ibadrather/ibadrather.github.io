@@ -1,6 +1,6 @@
 # Ibad Rather
 
-![WhatsApp Image 2022-06-29 at 7 47 06 PM](https://user-images.githubusercontent.com/35704690/176515552-4490e262-db44-4517-a6aa-034e55cdc2ce.png)
+![WhatsApp Image 2022-06-29 at 7 47 06 PM (1)](https://user-images.githubusercontent.com/35704690/176516288-5b11d717-585b-4dee-a9b3-b92772424253.png)
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
