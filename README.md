@@ -41,11 +41,11 @@ Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Me
 
 ## **Projects**
 - **Robotics Related Projects**
-  - Home Service Robot: In this project I combined localization, SLAM, and planned robotic algorithms into a home service robot. The goal of this project was to program a robot that can autonomously map an environment and navigate to pick up and drop virtual objects.
-  - UR5 Robotic Arm: Implemented a Sin-Mover and Inverse Kinematics based ROS Nodes in C++ to control the Robotic Arm.
-  - Franka Robot Arm in NVIDIA Omniverse: Implemented an Inverse-Kinematic based arm control in the simulated environment.
-  - Go Chase It: Wrote an image processing node in ROS which helps the Robot to follow a white ball in the given environment. 
-  - Localisation: In this project, I learnt to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the 
+  - _Home Service Robot_: In this project I combined localization, SLAM, and planned robotic algorithms into a home service robot. The goal of this project was to program a robot that can autonomously map an environment and navigate to pick up and drop virtual objects.
+  - _UR5 Robotic Arm_: Implemented a Sin-Mover and Inverse Kinematics based ROS Nodes in C++ to control the Robotic Arm.
+  - _Franka Robot Arm_ in NVIDIA Omniverse: Implemented an Inverse-Kinematic based arm control in the simulated environment.
+  - _Go Chase It_: Wrote an image processing node in ROS which helps the Robot to follow a white ball in the given environment. 
+  - _Localisation_: In this project, I learnt to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the 
 Gazebo simulation environments. 
 
 - **Deep Learning Related Projects**: Worked on various Deep Learning Related Projects from time to time:
