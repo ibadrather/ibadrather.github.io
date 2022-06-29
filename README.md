@@ -101,7 +101,7 @@ Gazebo simulation environments.
   - Continued teaching the following years and also started teaching OpenCV basics.
 
 - **Vice-President Enactus JMI, 2017-2018**: 
-  - Lead a team of more than 100 people working on various social projects projects.
+  - Lead a team of more than 100 people working on various social projects.
   - Developed a good name and positive impression of the organisation, which helped in motivating people to join and work with us.
   - Organised numerous events around Delhi showcasing and marketing our projects.
   - Raised the most funds the organisation ever did at that time (was also working as sponsorship head).
