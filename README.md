@@ -33,7 +33,7 @@
 
 ## **Education**
 ### MS Mechatronics, Universität Siegen: October 2019 – November 2022
-Thesis	Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit.
+Thesis:	Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit.
 
 ### B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi: July 2014 – June 2018	
 - Grade	8.74 – First Division with Honours
