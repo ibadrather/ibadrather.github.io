@@ -12,7 +12,7 @@
 </p>
 
 ## **Skills**
-<p align="center">
+<!--p align="center">
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
   <a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>  </a> 
@@ -22,7 +22,7 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>  </a> 
   <a href="https://de.mathworks.com/products/matlab.html" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>  </a> 
 
-</p>
+<--/p>
 
 - Python, MATLAB, C++, GIT, Linux
 - Data Engineering, Data Science, Simulations, Machine Learning, Deep-Learning, Robotics, Sensorics
