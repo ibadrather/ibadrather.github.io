@@ -42,9 +42,9 @@
 - Testing of Neural Network inferences on Google Edge TPU chip to determine real-time application possibility.
 
 ### Carl Zeiss AG, Research Intern: October 2021 – April 2022
-- Evaluation of simulation platforms (Epic Games Unreal Engine, Microsoft AirSim, Nvidia Omniverse) for camera and sensor simulation.
-- Creation of simulation environments with a Camera and an Inertial Measurement Unit (IMU) that reflect real-world conditions.
-- Implementation of Camera Motions like damped vibrations.
+- I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
+- I created simulation environments to mimic the real life situation.
+- 
 - Training and Evaluation of various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
 
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot: May 2021 - January 2022
