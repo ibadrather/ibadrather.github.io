@@ -44,8 +44,9 @@
 ### Carl Zeiss AG, Research Intern: October 2021 – April 2022
 - I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
 - I created simulation environments to mimic the real life situation.
-- 
-- Training and Evaluation of various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
+- Implementation of IMU Noise model from scratch to make the data more realistic and introduce randomness i.e domain randomization.
+- Testing the simulated data against real data. 
+- Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
 
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot: May 2021 - January 2022
 
