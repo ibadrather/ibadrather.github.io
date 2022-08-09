@@ -15,17 +15,17 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
   
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/> </a> 
-  <a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>  </a> 
-  <a href="https://pytorch.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch" width="75" height="75"/>  </a> 
-  <a href="https://www.raspberrypi.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="75" height="75"/>  </a> 
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" height="75"/>  </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>  </a> 
-  <a href="https://de.mathworks.com/products/matlab.html" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>  </a> 
-  <a href="https://jupyter.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="75" height="75"/>  </a> 
-  <a href="https://opencv.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="75" height="75"/>  </a> 
-  <a href="https://ubuntu.com/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="75" height="75"/>  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/>
+  <img src="https://github.com/ibadrather/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch" width="75" height="75"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" height="75"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>
+  <img src="https://github.com/ibadrather/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="75" height="75"/> 
+  <img src="https://github.com/ibadrather/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="75" height="75"/>
+  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="75" height="75"/> 
   <a href="https://www.tensorflow.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="75" height="75"/>  </a> 
   <a href="https://www.linux.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="75" height="75"/>  </a> 
   <a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros/ros-black-wordmark.svg" alt="ros" width="75" height="75"/> </a> 
@@ -33,28 +33,30 @@
 
 </p>
 
-
+- Deep Learning, Machine Learning, Robotics, Data Engineering, Data Science, Simulations, Robotics, Signal Processing, Sensorics
 - Python, MATLAB, C++, GIT, Linux
-- Data Engineering, Data Science, Simulations, Machine Learning, Deep-Learning, Robotics, Sensorics
-- Pytorch, Pytorch-Lightning, DARTS, Pandas, NumPy, OpenCV, Scikit-Learn, Matplotlib, SymPy
+- Pytorch, Pytorch-Lightning, DARTS, Pandas, NumPy, OpenCV, Scikit-Learn, Matplotlib, SymPy, TensorFlow
 - Robot Operating System (1 and 2), Gazebo, Unreal Engine, Microsoft AirSim, Nvidia Omniverse (Basics)
 - Software Engineering
 - Arduino/ Raspberry Pi, IOT Development
-- Independent, Leadership, Problem Solving, Teaching
+- Leadership, Problem Solving, Teaching
 
 ## **Experience**
-### Carl Zeiss AG, Master Thesis Student: June 2022 – November 2022
-- Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit
-- Evaluation of various deep learning architectures and classical algorithms for pose-estimation using an IMU Sensor data.
-- Precision requirements are very high of the order of 0.1 mm.
-- Testing of Neural Network inferences on Google Edge TPU chip to determine real-time application possibility.
+### Carl Zeiss AG, Full Time Research Intern and Master Thesis Student: October 2021 – November 2022
+- For my Master Thesis:
+  - My goal is to digitally stabilise a video feed coming from a camera in real-time.
+  - The camera has an oscillating motion and I have to estimate position using an Inertial Measurement Unit.
+  - Evaluating various neural network architectures(Resnet, CNN, LSTM, Transformer) for pose-estimation.
+  - Process the neural network outputs using signal-processing techniques to smoothen the output.
+  - Precision requirements are very high of the order of 0.1 mm.
+  - Testing of Neural Network inferences on various edge hardware like Google Edge TPU and Raspberry Pi to determine real-time application possibility for different models.
 
-### Carl Zeiss AG, Research Intern: October 2021 – April 2022
-- I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
-- I created simulation environments to mimic the real life situation.
-- Implementation of IMU Noise model from scratch to make the data more realistic and introduce randomness i.e domain randomization.
-- Testing the simulated data against real data. 
-- Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
+- During my internship:
+  - I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
+  - I created simulation environments to mimic the real life situation.
+  - Implementation of IMU Noise model from scratch to make the data more realistic and introduce randomness i.e domain randomization.
+  - Testing the simulated data against real data. 
+  - Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
 
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot: May 2021 - January 2022
 
