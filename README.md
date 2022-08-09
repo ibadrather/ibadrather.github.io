@@ -43,7 +43,7 @@
 
 ## **Experience**
 ### Carl Zeiss AG, Full Time Research Intern and Master Thesis Student
-###   October 2021 – November 2022
+### &emsp; October 2021 – November 2022
 - For my Master Thesis:
   - My goal is to digitally stabilise a video feed coming from a camera in real-time.
   - The camera has an oscillating motion and I have to estimate position using an Inertial Measurement Unit.
