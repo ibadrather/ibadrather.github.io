@@ -1,8 +1,6 @@
 # Ibad Rather
 
-<p align="center">
   <img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
-</p>
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
@@ -62,7 +60,7 @@
   - Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
 
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot
-#### &emsp May 2021 - January 2022
+#### &emsp; May 2021 - January 2022
 
 - Simulated a world in Gazebo which depicted a real-world like residential neighbourhood.
 - Built a Map (2D Occupancy Grid Map and 3D-Octomap) of the Environment using various SLAM Algorithms (gmapping, Hector SLAM and RTAB-Mapping) for comparison and use.
@@ -71,11 +69,11 @@
 
 ## **Education**
 ### MS Mechatronics, Universität Siegen
-#### &emsp October 2019 – November 2022
+#### &emsp; October 2019 – November 2022
 Thesis:	Digital Video Stabilization of an Oscillating Camera using an Inertial Measurement Unit.
 
 ### B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi
-#### &emsp July 2014 – June 2018	
+#### &emsp; July 2014 – June 2018	
 - Grade	8.74 – First Division with Honours
 - Thesis:	Friction Stir Welding
 
