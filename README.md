@@ -4,11 +4,6 @@
   <img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
 </p>
 
-
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
