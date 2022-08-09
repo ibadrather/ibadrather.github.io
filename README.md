@@ -1,6 +1,6 @@
 # Ibad Rather
 
-<img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
+![ibad_picture](https://user-images.githubusercontent.com/35704690/183746005-71fe3a96-eb13-4e05-b5ab-0dd5a3e1d32c.png)
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
