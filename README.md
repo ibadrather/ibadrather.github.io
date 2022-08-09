@@ -1,9 +1,12 @@
 # Ibad Rather
 
 <p align="center">
-  
-![WhatsApp Image 2022-06-29 at 7 47 06 PM (1)](https://user-images.githubusercontent.com/35704690/176516288-5b11d717-585b-4dee-a9b3-b92772424253.png)
+  <img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
+</p>
 
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
 <p>
