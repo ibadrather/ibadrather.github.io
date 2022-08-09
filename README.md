@@ -42,7 +42,8 @@
 - Leadership, Problem Solving, Teaching
 
 ## **Experience**
-### Carl Zeiss AG, Full Time Research Intern and Master Thesis Student: October 2021 – November 2022
+### Carl Zeiss AG, Full Time Research Intern and Master Thesis Student
+###   October 2021 – November 2022
 - For my Master Thesis:
   - My goal is to digitally stabilise a video feed coming from a camera in real-time.
   - The camera has an oscillating motion and I have to estimate position using an Inertial Measurement Unit.
@@ -58,7 +59,8 @@
   - Testing the simulated data against real data. 
   - Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
 
-### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot: May 2021 - January 2022
+### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot
+###   May 2021 - January 2022
 
 - Simulated a world in Gazebo which depicted a real-world like residential neighbourhood.
 - Built a Map (2D Occupancy Grid Map and 3D-Octomap) of the Environment using various SLAM Algorithms (gmapping, Hector SLAM and RTAB-Mapping) for comparison and use.
