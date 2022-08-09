@@ -74,7 +74,6 @@ Thesis:	Digital Video Stabilization of an Oscillating Camera using an Inertial M
 
 ### B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi
 #### &emsp; July 2014 – June 2018	
-- Grade	8.74 – First Division with Honours
 - Thesis:	Friction Stir Welding
 
 ## **Projects**
@@ -93,10 +92,12 @@ Gazebo simulation environments.
   - Character Level RNN for Lyrics Generation
   - Multi – Timeseries Forecasting
   - Object Recognition on Raspberry Pi
+  - Image Classification
 
 - **Computer Vision Related Projects**: Worked on various small and relatively big projects like:
   - Advanced Lane Line Detection
   - European Bank Notes Classification
+  - Distortion correction in Photos and Videos - Wide angle distortion correction.
   - Video Editing Pipeline
   - Camera Calibration
   - Gradients and Colour Spaces
