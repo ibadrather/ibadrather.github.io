@@ -15,6 +15,7 @@
 To summarise myself in a few bullet points:
 - I am a curious person
 - I like learning all kinds of different things
+- I am an above average cook
 - I am fun to be around with
 - If you're around me you'd hear more good jokes than bad ones ;)
 - I would call myself a compassionate and a considerate person
