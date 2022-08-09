@@ -15,7 +15,8 @@
 Let me try to summarise myself in a few bullet points:
 - I am a curious person
 - I like learning all kinds of different things
-- I am fun to be around with and my friends in general call me funny
+- I am fun to be around with
+- I tell more good jokes than bad jokes ;)
 - I would call myself a compassionate and a considerate person
 - I value honesty and kind heartedness
 - I am interested in people and want to know about them and their story
