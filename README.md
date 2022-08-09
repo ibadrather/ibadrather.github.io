@@ -11,6 +11,16 @@
   </a>
 </p>
 
+## **About Me**
+Let me try to summarise myself in a few bullet points:
+- I am a curious person
+- I like learning all kinds of different things
+- I am fun to be around with and my friends in general call me funny
+- I would call myself a compassionate and a considerate person
+- I value honesty and kind heartedness
+- I am interested in people and want to know about them and their story
+- Rest of the technical jargon is below!
+
 ## **Skills and Tools**
 - Deep Learning, Machine Learning, Robotics, Data Engineering, Data Science, Simulations, Robotics, Signal Processing, Sensorics
 - Python, MATLAB, C++, GIT, Linux
