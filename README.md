@@ -1,6 +1,6 @@
 # Ibad Rather
 
-  <img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
+<img width="320" height="320" src="https://github.com/ibadrather/ibadrather.github.io/blob/main/ibad_picture.png">
 
 <p>
   <a href="https://www.linkedin.com/in/ibad-rather/" rel="nofollow noreferrer">
@@ -12,15 +12,16 @@
 </p>
 
 ## **About Me**
-Let me try to summarise myself in a few bullet points:
+To summarise myself in a few bullet points:
 - I am a curious person
 - I like learning all kinds of different things
 - I am fun to be around with
-- I tell more good jokes than bad jokes ;)
+- If you're around me you'd hear more good jokes than bad ones ;)
 - I would call myself a compassionate and a considerate person
 - I value honesty and kind heartedness
 - I am interested in people and want to know about them and their story
 - Rest of the technical jargon is below!
+
 
 ## **Skills and Tools**
 - Deep Learning, Machine Learning, Robotics, Data Engineering, Data Science, Simulations, Robotics, Signal Processing, Sensorics
