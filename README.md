@@ -1,7 +1,9 @@
 # Ibad Rather
 
 <p align="center">
+  
 ![WhatsApp Image 2022-06-29 at 7 47 06 PM (1)](https://user-images.githubusercontent.com/35704690/176516288-5b11d717-585b-4dee-a9b3-b92772424253.png)
+
 </p>
 
 <p>
