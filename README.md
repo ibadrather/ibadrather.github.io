@@ -11,34 +11,14 @@
   </a>
 </p>
 
-## **Skills**
-<h2 align="left">Languages and Tools:</h2>
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/>
-  <img src="https://github.com/ibadrather/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch" width="75" height="75"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="75" height="75"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" height="75"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>
-  <img src="https://github.com/ibadrather/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="75" height="75"/> 
-  <img src="https://github.com/ibadrather/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="75" height="75"/>
-  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="75" height="75"/> 
-  <a href="https://www.tensorflow.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="75" height="75"/>  </a> 
-  <a href="https://www.linux.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="75" height="75"/>  </a> 
-  <a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros/ros-black-wordmark.svg" alt="ros" width="75" height="75"/> </a> 
-  <a href="https://docs.ros.org/en/foxy/index.html" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros2/ros2-original-wordmark.svg" alt="ros2" width="75" height="75"/>  </a> 
-
-</p>
-
+## **Skills and Tools**
 - Deep Learning, Machine Learning, Robotics, Data Engineering, Data Science, Simulations, Robotics, Signal Processing, Sensorics
 - Python, MATLAB, C++, GIT, Linux
 - Pytorch, Pytorch-Lightning, DARTS, Pandas, NumPy, OpenCV, Scikit-Learn, Matplotlib, SymPy, TensorFlow
 - Robot Operating System (1 and 2), Gazebo, Unreal Engine, Microsoft AirSim, Nvidia Omniverse (Basics)
 - Software Engineering
 - Arduino/ Raspberry Pi, IOT Development
+- Fusion 360, Solid Works
 - Leadership, Problem Solving, Teaching
 
 ## **Experience**
@@ -74,7 +54,7 @@ Thesis:	Digital Video Stabilization of an Oscillating Camera using an Inertial M
 
 ### B. Tech Mechanical Engineering, Jamia Millia Islamia, Delhi
 #### &emsp; July 2014 – June 2018	
-- Thesis:	Friction Stir Welding
+- Thesis:	Friction Stir Welding of 5-Series Alluminum Alloys
 
 ## **Projects**
 - **Robotics Related Projects**
