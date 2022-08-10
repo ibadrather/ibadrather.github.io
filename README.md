@@ -35,7 +35,7 @@ To summarise myself in a few bullet points:
 - Leadership, Problem Solving, Teaching
 
 ## **Experience**
-### Carl Zeiss AG, Full Time Research Intern and Master Thesis Student
+### Carl Zeiss AG, Research Intern and Master Thesis Student (Full-Time) 
 #### &emsp; October 2021 – November 2022
 - For my Master Thesis:
   - My goal is to digitally stabilise a video feed coming from a camera in real-time.
