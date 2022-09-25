@@ -12,14 +12,14 @@
 </p>
 
 ## **About Me**
-To summarise myself in a few bullet points:
+To summarise myself:
 - I am a curious person
 - I like learning all kinds of different things
-- I am an above average cook
+- I am an above-average cook
 - I am fun to be around with
-- If you're around me you'd hear more good jokes than bad ones ;)
+- Around me, you'd hear more good jokes than bad ones ;)
 - I would call myself a compassionate and a considerate person
-- I value honesty and kind heartedness
+- I value honesty and kind-heartedness
 - I am interested in people and want to know about them and their story
 - Rest of the technical jargon is below!
 
@@ -37,21 +37,13 @@ To summarise myself in a few bullet points:
 ## **Experience**
 ### Carl Zeiss AG, Research Intern and Master Thesis Student (Full-Time) 
 #### &emsp; October 2021 – November 2022
-- For my Master Thesis:
-  - My goal is to digitally stabilise a video feed coming from a camera in real-time.
-  - The camera has an oscillating motion and I have to estimate position using an Inertial Measurement Unit.
-  - Evaluating various neural network architectures(Resnet, CNN, LSTM, Transformer) for pose-estimation.
-  - Process the neural network outputs using signal-processing techniques to smoothen the output.
-  - Precision requirements are very high of the order of 0.1 mm.
-  - Testing of Neural Network inferences on various edge hardware like Google Edge TPU and Raspberry Pi to determine real-time application possibility for different models.
-
-- During my internship:
-  - I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
-  - I created simulation environments to mimic the real life situation.
-  - Implementation of IMU Noise model from scratch to make the data more realistic and introduce randomness i.e domain randomization.
-  - Testing the simulated data against real data. 
-  - Trained and Evaluated various Neural Networks (CNNs, RNNs) for motion prediction from IMU data.
-
+- Stabilized a video coming from an oscillating camera using Inertial Measurement Unit sensor data.
+- I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
+- Implementation of IMU Noise model from scratch to make the data more realistic and introduce randomness i.e domain randomization.
+- Testing the simulated data against real data.
+- Writing and evaluation of various neural network architectures (Resnet, CNN, LSTM, Transformers) for pose-estimation.
+- Process the neural network outputs using signal-processing techniques to smoothen the output.
+- Testing of Neural Network inferences on various edge hardware to determine real-time application.
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot
 #### &emsp; May 2021 - January 2022
 
