@@ -35,7 +35,7 @@ To summarise myself:
 - Leadership, Problem Solving, Teaching
 
 ## **Experience**
-### Carl Zeiss AG, Research Intern and Master Thesis Student (Full-Time) 
+### Full Time Research Intern and Master Thesis Student (R&D), Carl Zeiss AG 
 #### &emsp; October 2021 – November 2022
 - Stabilized a video coming from an oscillating camera using Inertial Measurement Unit sensor data.
 - I evaluated various simulation platforms like Epic Games Unreal Engine, Microsoft AirSim, Isaac Sim SDK and Nvidia Omniverse for camera and IMU sensor simulation.
