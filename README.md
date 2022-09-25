@@ -44,6 +44,7 @@ To summarise myself:
 - Writing and evaluation of various neural network architectures (Resnet, CNN, LSTM, Transformers) for pose-estimation.
 - Process the neural network outputs using signal-processing techniques to smoothen the output.
 - Testing of Neural Network inferences on various edge hardware to determine real-time application.
+
 ### Master Project - SLAM and Path Planning for Follow-Me Function in an Autonomous Delivery Robot
 #### &emsp; May 2021 - January 2022
 
